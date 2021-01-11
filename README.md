@@ -1,10 +1,9 @@
-# Delivery App Mobile
+# Food Master Mobile
 
-Food delivery app built with React Native
+Food Master App built with React Native
 
 ## Connected Projects
-- Web: https://github.com/moiseshilario/delivery-app-web
-- Back: https://github.com/moiseshilario/delivery-app-back
+- Web: https://github.com/BaneDev-star/foodmaster-web
 
 ## Setup
 
